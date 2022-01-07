@@ -1,9 +1,5 @@
 <h3 align="center">A passionate MERN Stack web development lerner from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-himel&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-himel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-hasan-himel" alt="mehedi-hasan-himel" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack.**
 
 - 📫 How to reach me **mehedihasanhimel89@gmail.com**
