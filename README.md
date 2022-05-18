@@ -35,14 +35,12 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-hasan-himel&show_icons=true&locale=en&layout=compact" alt="mehedi-hasan-himel" /></p>
 
-<br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan-himel&show_icons=true&locale=en" alt="mehedi-hasan-himel" /></p>
 
-<br><br><br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hasan-himel&" alt="mehedi-hasan-himel" /></p>
