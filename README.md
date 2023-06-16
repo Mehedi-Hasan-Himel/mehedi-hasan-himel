@@ -1,7 +1,7 @@
 <!--   next portfolio design https://towkir.github.io/ -->
 <h3 align="center">A passionate MERN Stack web development lerner from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Next.JS.**
 
 - 📫 How to reach me **mehedihasanhimel89@gmail.com**
 
