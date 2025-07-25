@@ -1,7 +1,7 @@
 <h3 align="center">A passionate web development and competitive programming learner from Bangladesh.</h3>
 
-- 🌱 I’m currently focused on **C/C++ programming** and sharpening my problem-solving skills.
-- 🎯 Preparing for **ICPC 2026** through regular practice and algorithmic challenges.
+- 🌱 I’m currently focused on **C/C++ programming** and sharpening my problem-solving skills.  
+- 🎯 Preparing for **ICPC 2026** through regular practice and algorithmic challenges.  
 - 💻 Passionate about building efficient web applications and diving deep into competitive programming.
 
 ---
@@ -22,9 +22,9 @@ I've experience in CMS like **WordPress**
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="margin-right:10px;"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="margin-right:10px;"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin-right:10px;"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40" style="margin-right:10px;"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" style="margin-right:10px;"/></a>
+  <a href="https://wordpress.org/" target="_blank"><img src="https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png" alt="WordPress" width="40" height="40" style="margin-right:10px;"/></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ I've experience in CMS like **WordPress**
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right:10px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:10px;"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right:10px;"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40" style="margin-right:10px;"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/></a>
 </p>
 
